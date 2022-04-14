@@ -1,1 +1,1 @@
-# CRUD realizado em PHP ligado ao banco MYSQL, além de utilizar HTML+CSS+JavaScript.
+# CRUD realizado em PHP ligado ao banco MYSQL, foi também utilizado HTML+CSS+JavaScript.
